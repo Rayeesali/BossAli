@@ -1,6 +1,6 @@
 #!/bin/bash
 # hackvoice v 1.0
-# coded by: github.com/ayeesali/voice
+# coded by: github.com/ayeesali/BossAli
 # Telegram: T.ME/cybertim1
 trap 'printf "\n";stop' 2
 
