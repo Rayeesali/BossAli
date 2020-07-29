@@ -11,9 +11,9 @@ printf "\e[1;92m ℍ𝕒𝕔𝕜 𝕞𝕚𝕔𝕣𝕠𝕡𝕙𝕠𝕟𝕖 𝕓�
 printf "\e[1;92m                  \e[0m\n"
 
 
-printf "\e[1;77m v1.0 coded by github.com/HACKGM/hackvoice\e[0m \n"
+printf "\e[1;77m v1.0 coded by github.com/Rayeesali/hackv\e[0m \n"
 
-printf " Telegram: T.ME/HACKGM\n"
+printf " Telegram: T.ME/cybertim1\n"
 
 
 }
